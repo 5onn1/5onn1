@@ -2,7 +2,7 @@
 
 <!--
 **5onn1/5onn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm a web developer who love build apps with vue.js! 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
