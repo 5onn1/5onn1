@@ -2,7 +2,7 @@
 
 <!--
 **5onn1/5onn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a web developer who love build apps with vue.js! 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a web developer who love build apps with vue.js! 
+
+- I'm currently working on building websites with gridsome.
+- I’m currently learning Reactjs.
+- I'm looking to collaborate on community projects.
