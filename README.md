@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm a web developer who love build apps with vue.js! 
 
-I'm currently working on building websites with gridsome.
-I’m currently learning Reactjs.
-I'm looking to collaborate on community projects.
+- I'm currently working on building websites with gridsome.
+- I’m currently learning Reactjs.
+- I'm looking to collaborate on community projects.
