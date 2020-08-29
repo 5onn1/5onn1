@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web developer who love build apps with Vue.js! 
+I'm a web developer who love build apps with Vue.js! On my free time I also love to play soccer and play guitar.
 
 - I'm currently working on building websites with Vue.js.
 - I’m currently learning Reactjs.
