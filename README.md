@@ -14,6 +14,9 @@ This is a personal project in progress.
 [VueTravel](https://vue-travel-7634c.firebaseapp.com/) -
 This project is based on the vue-router course at Vue School with vue-cli.
 
+[VueTravel](https://grid-travel.vercel.app/) -
+This project is a version of VueTravel developed on Gridsome.
+
 ## My skills
 
 - PHP
