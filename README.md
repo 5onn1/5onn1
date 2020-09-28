@@ -8,14 +8,14 @@ I'm a web developer who love build apps with Vue.js! On my free time I also love
 
 ## Projects
 
-[thatchord](https://5onn1.github.io/thatchord/) -
-This is a personal project in progress.
+[thatchord](https://thatchord.rocks/) -
+This is a personal project in progress about guitar chords.
 
 [VueTravel](https://vue-travel-7634c.firebaseapp.com/) -
 This project is based on the vue-router course at Vue School with vue-cli.
 
-[VueTravel](https://grid-travel.vercel.app/) -
-This project is a version of VueTravel developed on Gridsome.
+[VueTravel](https://wetravel.netlify.app/) -
+This project is a version of VueTravel developed with Gridsome.
 
 ## My skills
 
@@ -24,7 +24,7 @@ This project is a version of VueTravel developed on Gridsome.
 - Vuejs
 - SQL Databases
 - NoSQL Databases
-- Figma for Responsive Web Desgin
+- Responsive Web Desgin
 - SCSS
 - Symfony & Laravel
 - Nuxt.js & Gridsome
