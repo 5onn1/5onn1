@@ -18,7 +18,7 @@ This is a personal project in progress about guitar chords.
 [VueTravel](https://vue-travel-7634c.firebaseapp.com/) -
 This project is based on the vue-router course at Vue School with vue-cli.
 
-[VueTravel](https://wetravel.netlify.app/) -
+[WeTravel](https://wetravel.netlify.app/) -
 This project is a version of VueTravel developed with Gridsome.
 
 ## My skills
