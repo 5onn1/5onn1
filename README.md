@@ -8,6 +8,10 @@ I'm a web developer who love build apps with Vue.js! On my free time I also love
 
 ## Projects
 
+
+[Wantalanding.page](https://wantalanding.page/) -
+This is my personal website to be in touch.
+
 [thatchord](https://thatchord.rocks/) -
 This is a personal project in progress about guitar chords.
 
