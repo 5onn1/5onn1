@@ -12,14 +12,8 @@ I'm a web developer who love build apps with Vue.js! On my free time I also love
 [Wantalanding.page](https://wantalanding.page/) -
 This is my personal website to be in touch.
 
-[thatchord](https://thatchord.rocks/) -
-This is a personal project in progress about guitar chords.
-
-[VueTravel](https://vue-travel-7634c.firebaseapp.com/) -
-This project is based on the vue-router course at Vue School with vue-cli.
-
 [WeTravel](https://wetravel.netlify.app/) -
-This project is a version of VueTravel developed with Gridsome.
+This project is made it with Gridsome.
 
 ## My skills
 
