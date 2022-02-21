@@ -12,8 +12,8 @@ I'm a web developer who love build apps with Vue.js! On my free time I also love
 [Wantalanding.page](https://wantalanding.page/) -
 This is my personal website to be in touch.
 
-[WeTravel](https://wetravel.netlify.app/) -
-This project is made it with Gridsome.
+[VueTravel](travel-app-a52f8.web.app) -
+Made it with Gridsome and Vuetify!.
 
 ## My skills
 
