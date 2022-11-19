@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web developer who love build apps with Vue.js! On my free time I also love to play soccer and play guitar.
+I'm a Full-Stack web developer who love build apps on my free time. Also I love to play soccer and do exercise.
 
 - I'm currently working on building websites with Vue.js.
 - I’m currently learning Reactjs.
@@ -8,27 +8,28 @@ I'm a web developer who love build apps with Vue.js! On my free time I also love
 
 ## Projects
 
-
 [Wantalanding.page](https://wantalanding.page/) -
 This is my personal website to be in touch.
 
 [VueTravel](https://travel-app-a52f8.web.app) -
 Made it with Gridsome and Vuetify!.
 
+[Expenses app](https://notas-a3d4b.firebaseapp.com) -
+Made it with Vue2, Vuetify and Firebase!.
+
 ## My skills
 
 - PHP
 - JavaScript
 - Vuejs
-- SQL Databases
-- NoSQL Databases
+- React
+- MySql, PostgreSQL, Firebase
 - Responsive Web Desgin
 - SCSS
-- Symfony & Laravel
+- Laravel
 - Nuxt.js & Gridsome
-
+- Git
 ## My goals
 
-- Create accessible web designs for all users.
-- Provide the best possible user experience.
-- Help people and good causes with my skills.
+- Create web interfaces accessible to all users
+- I hope one day can help good causes with my skills.
