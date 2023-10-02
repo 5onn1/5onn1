@@ -2,8 +2,8 @@
 
 I'm a Full-Stack web developer who love build apps on my free time. Also I love to play soccer and do exercise.
 
-- I'm currently working on building websites with Vue.js.
-- I’m currently learning Reactjs.
+- I'm currently working on building websites with Reactjs and Vue.js.
+- I’m currently learning Nextjs.
 - I'm looking to collaborate on community projects.
 
 ## Projects
@@ -23,11 +23,10 @@ Made it with Vue2, Vuetify and Firebase!.
 - JavaScript
 - Vuejs
 - React
-- MySql, PostgreSQL, Firebase
+- MySql, Firebase
 - Responsive Web Desgin
 - SCSS
 - Laravel
-- Nuxt.js & Gridsome
 - Git
 ## My goals
 
