@@ -8,7 +8,7 @@ I'm a Full-Stack web developer who love build apps on my free time. Also I love 
 
 ## Projects
 
-[Wantalanding.page](https://wantalanding.page/) -
+[Web del Olimpo](https://webdelolimpo.com/) -
 This is my personal website to be in touch.
 
 [VueTravel](https://travel-app-a52f8.web.app) -
