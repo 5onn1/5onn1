@@ -31,4 +31,4 @@ Made it with Vue2, Vuetify and Firebase!.
 ## My goals
 
 - Create web interfaces accessible to all users
-- I hope one day can help good causes with my skills.
+- I will be happy to help good causes with my skills.
