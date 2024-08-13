@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Full-Stack web developer who love build apps on my free time. Also I love to play soccer and do exercise.
+I'm a Full-Stack web developer who love build apps on my free time. Also I love to play soccer.
 
 - I'm currently working on building websites with Reactjs and Vue.js.
 - I’m currently learning Nextjs.
@@ -23,7 +23,7 @@ Made it with Vue2, Vuetify and Firebase!.
 - JavaScript
 - Vuejs
 - React
-- MySql, Firebase
+- MySql
 - Responsive Web Desgin
 - SCSS
 - Laravel
@@ -31,4 +31,4 @@ Made it with Vue2, Vuetify and Firebase!.
 ## My goals
 
 - Create web interfaces accessible to all users
-- I will be happy to help good causes with my skills.
+- I will be happy to help.
